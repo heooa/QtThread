@@ -1,0 +1,16 @@
+文档导出包含配置文件路径：
+E:\qt\5.9.7\msvc2015_64\include\QtSql
+E:\qt\5.9.7\msvc2015_64\include\QtNetwork
+E:\qt\5.9.7\msvc2015_64\include\ActiveQt
+
+库目录
+E:\qt\5.9.7\msvc2015_64\lib
+E:\qt\5.9.7\msvc2015_64\plugins\platforms
+
+库名称:
+Qt5Sql.lib
+Qt5Core.lib
+Qt5Gui.lib
+Qt5Network.lib
+Qt5AxContainer.lib
+Qt5AxBase.lib
